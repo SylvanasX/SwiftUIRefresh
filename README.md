@@ -43,10 +43,4 @@ struct ContentView: View {
 
 ## Installation
 
-If you want to use SwiftUIRefresh in a [SwiftPM](https://swift.org/package-manager/) project, it's as simple as adding a `dependencies` clause to your `Package.swift`:
-
-``` swift
-dependencies: [
-  .package(url: "https://github.com/SylvanasX/SwiftUIRefresh.git", from: "0.0.1")
-]
-```
+In Xcode got to File -> Swift Packages -> Add Package Dependency and paste inthe repo's url: https://github.com/SylvanasX/SwiftUIRefresh
