@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIRefresh",
+        "repositoryURL": "https://github.com/SylvanasX/SwiftUIRefresh.git",
+        "state": {
+          "branch": null,
+          "revision": "c3c139f7a2671eed79d06b0cbe0859429602dfd1",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
